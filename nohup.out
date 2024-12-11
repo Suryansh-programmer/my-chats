@@ -17,7 +17,8 @@ User added successfully.
 User added successfully.
 User added successfully.
 Error adding user: list index out of range
-User added successfully.
+Error adding user: A wait of 69 seconds is required (caused by ImportContactsRequest)
+Extracted seconds: 69
 Error adding user: list index out of range
 User added successfully.
 User added successfully.
@@ -27,6 +28,19 @@ User added successfully.
 Error adding user: list index out of range
 Error adding user: list index out of range
 User added successfully.
+Error adding user: list index out of range
+User added successfully.
+Error adding user: list index out of range
+Error adding user: list index out of range
+Error adding user: list index out of range
+Error adding user: list index out of range
+Error adding user: list index out of range
+Error adding user: list index out of range
+Error adding user: list index out of range
+Error adding user: list index out of range
+Error adding user: list index out of range
+Error adding user: list index out of range
+Error adding user: list index out of range
 Traceback (most recent call last):
   File "/workspaces/my-chats/main.py", line 139, in <module>
     client.loop.run_until_complete(create_and_add_user())
